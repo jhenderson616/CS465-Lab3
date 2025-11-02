@@ -1,0 +1,22 @@
+{
+  "topic": "Science",
+  "title": "Electrical Quiz",
+  "quizMessage": "Test your knowledge of electrical science!",
+  "questions": [
+    {
+      "question": "What particle carries a negative charge?",
+      "options": ["Proton", "Electron", "Neutron"],
+      "answer": "Electron"
+    },
+    {
+      "question": "Electric current is measured in what unit?",
+      "options": ["Watts", "Volts", "Amperes"],
+      "answer": "Amperes"
+    },
+    {
+      "question": "Which material is a good conductor?",
+      "options": ["Rubber", "Glass", "Copper"],
+      "answer": "Copper"
+    }
+  ]
+}

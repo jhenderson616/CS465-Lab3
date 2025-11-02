@@ -1,0 +1,22 @@
+{
+  "topic": "World History",
+  "title": "World History Quiz",
+  "quizMessage": "Test your knowledge of major world events!",
+  "questions": [
+    {
+      "question": "In what year did World War II end?",
+      "options": ["1940", "1942", "1945", "1950"],
+      "answer": "1945"
+    },
+    {
+      "question": "Who was the first Emperor of Rome?",
+      "options": ["Julius Caesar", "Augustus", "Nero", "Constantine"],
+      "answer": "Augustus"
+    },
+    {
+      "question": "The Great Wall of China was primarily built to protect against which group?",
+      "options": ["Mongols", "Japanese", "Huns", "Vikings"],
+      "answer": "Mongols"
+    }
+  ]
+}

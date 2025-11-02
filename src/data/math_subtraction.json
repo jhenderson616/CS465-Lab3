@@ -1,0 +1,40 @@
+{
+  "topic": "Math Knowledge",
+  "title": "Subtraction Quiz",
+  "quizMessage": "Test your subtraction knowledge with this quiz!",
+  "questions": [
+    {
+      "question": "5 - 3",
+      "options": 
+	  [
+		"1",
+		 "2",
+		  "3",
+		   "4"
+		],
+      "answer": "2"
+    },
+    {
+      "question": "10 - 4",
+      "options": 
+	  [
+		"5",
+		 "6",
+		  "7",
+		   "4"
+		],
+      "answer": "6"
+    },
+    {
+      "question": "25 - 7",
+      "options": 
+	  [
+		"18",
+		 "17",
+		  "19",
+		   "16"
+		],
+      "answer": "18"
+    }
+  ]
+}

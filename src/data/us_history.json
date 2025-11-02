@@ -1,0 +1,22 @@
+{
+  "topic": "U.S. History",
+  "title": "U.S. History Quiz",
+  "quizMessage": "Test your knowledge of USA history!",
+  "questions": [
+    {
+      "question": "Who was the fourth President of the United States?",
+      "options": ["Thomas Jefferson", "James Madison", "George Washington", "John Adams"],
+      "answer": "James Madison"
+    },
+    {
+      "question": "what day in july did the declaration of independence almost get signed?",
+      "options": ["2", "4", "6", "8"],
+      "answer": "2"
+    },
+    {
+      "question": "What war was fought between the North and South regions in the U.S.?",
+      "options": ["World War I", "Revolutionary War", "Civil War", "War of 1812"],
+      "answer": "Civil War"
+    }
+  ]
+}

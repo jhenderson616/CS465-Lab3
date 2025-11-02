@@ -1,0 +1,26 @@
+[
+  {
+    "id": "math",
+    "topic": "Math Knowledge",
+    "quizzes": [
+      { "id": "math_addition", "title": "Addition" },
+      { "id": "math_subtraction", "title": "Subtraction" }
+    ]
+  },
+  {
+    "id": "science",
+    "topic": "Science Knowledge",
+    "quizzes": [
+      { "id": "science_electrical", "title": "Electrical" },
+      { "id": "science_general", "title": "General Science" }
+    ]
+  },
+  {
+    "id": "history",
+    "topic": "History Knowledge",
+    "quizzes": [
+      { "id": "us_history", "title": "U.S. History" },
+      { "id": "world_history", "title": "World History" }
+    ]
+  }
+]

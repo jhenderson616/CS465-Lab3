@@ -1,0 +1,40 @@
+{
+  "topic": "Math Knowledge",
+  "title": "Addition Quiz",
+  "quizMessage": "Test your addition knowledge with this test",
+  "questions": [
+    {
+      "question": "1 + 1",
+      "options": 
+	  [
+		"1", 
+	  "0",
+	   "2",
+	    "-1"
+	],
+      "answer": "2"
+    },
+    {
+      "question": "67 + 63",
+      "options": 
+	  [
+		"130",
+		 "120",
+		  "135",
+		   "100"
+		],
+      "answer": "130"
+    },
+    {
+      "question": "10 + 10",
+      "options": 
+	  [
+		"30",
+		 "1010",
+		  "100",
+		   "20"
+		] ,
+      "answer": "20"
+    }
+  ]
+}

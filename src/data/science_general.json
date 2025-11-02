@@ -1,0 +1,22 @@
+{
+  "topic": "Science",
+  "title": "General Science Quiz",
+  "quizMessage": "do you have what it takes to win general science?",
+  "questions": [
+    {
+      "question": "What planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is H₂O commonly known as?",
+      "options": ["Hydrogen", "Oxygen", "Water"],
+      "answer": "Water"
+    }
+  ]
+}
